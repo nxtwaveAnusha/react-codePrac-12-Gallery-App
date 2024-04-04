@@ -1,0 +1,19 @@
+.list-item {
+  list-style-type: none;
+  margin: 5px;
+}
+.img-btn {
+  background: transparent;
+  border: none;
+  padding: 0;
+  outline: none;
+  cursor: pointer;
+}
+.activeThumb {
+  opacity: 1;
+}
+.thumbnali {
+  height: 60px;
+  width: 60px;
+  opacity: 0.5;
+}
